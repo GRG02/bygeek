@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-ByGeek-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/bygeek.page"><img src="https://img.shields.io/badge/Facebook-ByGeek-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <img src="https://img.shields.io/badge/Language-Thai-blue?style=flat-square" alt="Language Thai" />
   <img src="https://img.shields.io/badge/Focus-Systemic%20Thinking-orange?style=flat-square" alt="Focus" />
 </p>
@@ -26,9 +26,9 @@
 
 ## 📚 บทความที่เผยแพร่แล้ว (Articles)
 
-| ตอนที่ | ชื่อบทความ | แก่นคิดหลัก (Mental Model) | ลิงก์อ่านบทความ |
-|:---:|---|---|:---:|
-| 01 | **Cargo Cult: รันเวย์ไม้ไผ่ที่ไม่มีวันมีเครื่องบินลง** | `Form ≠ Function`<br>การสับสนระหว่าง "สิ่งที่เกิดพร้อมกัน" กับ "สิ่งที่เป็นสาเหตุ" | [อ่านบทความ](contents/cargo-cult/articles/content.md) |
+| ตอนที่ | ชื่อบทความ                                             | แก่นคิดหลัก (Mental Model)                                                         |                    ลิงก์อ่านบทความ                    |
+| :----: | ------------------------------------------------------ | ---------------------------------------------------------------------------------- | :---------------------------------------------------: |
+|   01   | **Cargo Cult: รันเวย์ไม้ไผ่ที่ไม่มีวันมีเครื่องบินลง** | `Form ≠ Function`<br>การสับสนระหว่าง "สิ่งที่เกิดพร้อมกัน" กับ "สิ่งที่เป็นสาเหตุ" | [อ่านบทความ](contents/cargo-cult/articles/content.md) |
 
 ---
 
