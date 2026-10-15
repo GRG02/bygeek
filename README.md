@@ -12,6 +12,7 @@
   <a href="https://www.facebook.com/bygeek.page"><img src="https://img.shields.io/badge/Facebook-ByGeek-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <img src="https://img.shields.io/badge/Language-Thai-blue?style=flat-square" alt="Language Thai" />
   <img src="https://img.shields.io/badge/Focus-Systemic%20Thinking-orange?style=flat-square" alt="Focus" />
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square" alt="License: CC BY-NC 4.0" /></a>
 </p>
 
 ---
@@ -62,5 +63,5 @@ bygeek/
 ---
 
 <p align="center">
-  <sub>© ByGeek. All rights reserved. เนื้อหาและบทความสร้างสรรค์โดย ByGeek</sub>
+  <sub>เนื้อหาและบทความทั้งหมดเผยแพร่ภายใต้สัญญาอนุญาต <a href="LICENSE.md">Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a><br>© ByGeek. สงวนลิขสิทธิ์สำหรับการเผยแพร่เชิงพาณิชย์</sub>
 </p>
